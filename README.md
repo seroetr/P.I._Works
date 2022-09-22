@@ -5,3 +5,5 @@ The dataset includes two measurements for an hour for the number of used buses i
 MUNICIPALITY_ID, TIMESTAMP, USAGE, TOTAL_CAPACITY
 - You may look at the one of the solution approach found in kaggle using the link: https://www.kaggle.com/code/berkantaslan/forecasting-bus-demand-in-banana-municipalities/notebookApplication 
 - Forecasting of hourly different buses usages has been predicted by the time series solution using LSTM in Tensorflow.
+
+Model, built in TensorFlow using LSTM layers, may give you an insight into a solution to forecast usage quantity.
