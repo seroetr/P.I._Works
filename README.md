@@ -7,4 +7,4 @@ MUNICIPALITY_ID, TIMESTAMP, USAGE, TOTAL_CAPACITY
 - Forecasting of hourly different buses usages has been predicted by the time series solution using LSTM in Tensorflow.
 
 Model, built in TensorFlow using LSTM layers, may give you an insight into a solution to forecast usage quantity.
-The model can be improved using different layers, dropouts, batch size, optimizer, or epoch parameters.It was created with the aim of giving an idea about how LSTM is used in tensorflow application.
+The model can be improved using different layers, dropouts, batch size, optimizer, or epoch parameters. It was created with the aim of giving an idea about how LSTM is used in tensorflow application.
